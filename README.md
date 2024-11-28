@@ -83,7 +83,7 @@ Tools: AWS, Google Cloud, or Azure for running the app online.
 6. Security
 Tools: SSL/TLS for encryption, OAuth for user logins, and Blockchain for tracking donations.
 7. Notifications and Payments
-Tools: SendGrid or Twilio for notifications; Stripe or PayPal for payments.
+Tools: SendGrid or Twilio for notifications; Phonepe or PayPal for payments.
 8. Analytics
 Tools: Google Analytics or Mixpanel to understand user behavior.
 
